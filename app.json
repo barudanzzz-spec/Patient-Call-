@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Patient Call",
+    "slug": "patient-call",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.danz.patientcall",
+      "versionCode": 1,
+      "permissions": [
+        "VIBRATE",
+        "WAKE_LOCK",
+        "POST_NOTIFICATIONS"
+      ]
+    },
+    "ios": {
+      "bundleIdentifier": "com.danz.patientcall"
+    }
+  }
+}
